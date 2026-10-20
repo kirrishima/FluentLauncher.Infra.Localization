@@ -18,3 +18,4 @@ _CacheCleared,,Catalog cache cleared,目录缓存已清除,目錄快取已清除
 _CacheClearFailed,,Could not clear the catalog cache,无法清除目录缓存,無法清除目錄快取,Не удалось очистить кеш каталогов,Не вдалося очистити кеш каталогів
 _VersionsUnavailable,,Could not update Minecraft versions,无法更新 Minecraft 版本,無法更新 Minecraft 版本,Не удалось обновить список версий Minecraft,Не вдалося оновити список версій Minecraft
 _ManualVersion,,You can enter a version manually.,您可以手动输入版本。,您可以手動輸入版本。,Версию можно ввести вручную.,Версію можна ввести вручну.
+ContentHeight,Text,Content height,内容高度,內容高度,Высота области,Висота області

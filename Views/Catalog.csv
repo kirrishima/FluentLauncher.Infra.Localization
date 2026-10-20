@@ -1,0 +1,18 @@
+Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
+Previous,Content,Previous,上一页,上一頁,Назад,Назад
+Next,Content,Next,下一页,下一頁,Далее,Далі
+Refresh,Content,Refresh,刷新,重新整理,Обновить,Оновити
+Page,,Page {0},第 {0} 页,第 {0} 頁,Страница {0},Сторінка {0}
+LastPage,,This is the last page. There are no more results.,这是最后一页。没有更多结果。,這是最後一頁。沒有更多結果。,Это последняя страница. Данных больше нет.,Це остання сторінка. Даних більше немає.
+SearchFailed,,Could not load the catalog page,无法加载目录页面,無法載入目錄頁面,Не удалось загрузить страницу каталога,Не вдалося завантажити сторінку каталогу
+Retry,,Please try refreshing the page.,请尝试刷新页面。,請嘗試重新整理頁面。,Попробуйте обновить страницу.,Спробуйте оновити сторінку.
+CacheSection,Text,Catalog cache,目录缓存,目錄快取,Кеш каталогов,Кеш каталогів
+CacheEnabled,Header,Cache catalog pages,缓存目录页面,快取目錄頁面,Кешировать страницы каталогов,Кешувати сторінки каталогів
+CacheEnabled,Description,Save CurseForge and Modrinth search results between launches. Images and downloads are excluded.,在启动之间保存 CurseForge 和 Modrinth 搜索结果。不包含图片和下载文件。,在啟動之間儲存 CurseForge 和 Modrinth 搜尋結果。不包含圖片和下載檔案。,Сохранять результаты поиска CurseForge и Modrinth между запусками. Без изображений и скачиваемых файлов.,Зберігати результати пошуку CurseForge і Modrinth між запусками. Без зображень і завантажуваних файлів.
+CacheLifetime,Header,Cache lifetime (minutes),缓存有效期（分钟）,快取有效期（分鐘）,Срок хранения (минуты),Термін зберігання (хвилини)
+CacheSize,Header,Maximum cache size (MB),缓存大小上限（MB）,快取大小上限（MB）,Максимальный размер кеша (МБ),Максимальний розмір кешу (МБ)
+CacheSize,Description,Shared by both catalogs. The least recently used pages are removed first.,两个目录共用。优先删除最久未使用的页面。,兩個目錄共用。優先刪除最久未使用的頁面。,Общий для обоих каталогов. Сначала удаляются давно не использованные страницы.,Спільний для обох каталогів. Спочатку видаляються давно не використані сторінки.
+CacheClear,Header,Clear cached pages,清除缓存页面,清除快取頁面,Очистить кеш страниц,Очистити кеш сторінок
+CacheClearButton,Content,Clear cache,清除缓存,清除快取,Очистить кеш,Очистити кеш
+CacheCleared,,Catalog cache cleared,目录缓存已清除,目錄快取已清除,Кеш каталогов очищен,Кеш каталогів очищено
+CacheClearFailed,,Could not clear the catalog cache,无法清除目录缓存,無法清除目錄快取,Не удалось очистить кеш каталогов,Не вдалося очистити кеш каталогів

@@ -16,3 +16,5 @@ CacheClear,Header,Clear cached pages,清除缓存页面,清除快取頁面,Оч�
 CacheClearButton,Content,Clear cache,清除缓存,清除快取,Очистить кеш,Очистити кеш
 _CacheCleared,,Catalog cache cleared,目录缓存已清除,目錄快取已清除,Кеш каталогов очищен,Кеш каталогів очищено
 _CacheClearFailed,,Could not clear the catalog cache,无法清除目录缓存,無法清除目錄快取,Не удалось очистить кеш каталогов,Не вдалося очистити кеш каталогів
+_VersionsUnavailable,,Could not update Minecraft versions,无法更新 Minecraft 版本,無法更新 Minecraft 版本,Не удалось обновить список версий Minecraft,Не вдалося оновити список версій Minecraft
+_ManualVersion,,You can enter a version manually.,您可以手动输入版本。,您可以手動輸入版本。,Версию можно ввести вручную.,Версію можна ввести вручну.
